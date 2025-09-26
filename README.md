@@ -4,6 +4,8 @@
 
 To obtain the complete dataset, please first download the [LuoJia-MVS dataset](https://irsip.whu.edu.cn/resv2/resources_v2.php) and the [WHU dataset](https://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html).
 
+Then You can download our text descriptions [Text-MVS](https://pan.baidu.com/) to the datasets folder and extract them.
+
 #### Understand our dataset
 
 The organizational structure of the dataset proposed in this paper is as follows:
@@ -45,6 +47,7 @@ Execute the following command to load Qwen2.5-VL-7B into your project:
 
 ```
 git clone https://github.com/QwenLM/Qwen2.5-VL.git
+cd Qwen2.5-VL-main
 pip install -r requirements_web_demo.txt
 pip install modelscope
 modelscope download --model Qwen/Qwen2.5-VL-7B-Instruct
@@ -85,4 +88,5 @@ If you find this work useful in your research, please consider citing the follow
 #### Reference
 
 This dataset is based on the implementations of LuoJia-MVS and WHU dataset. We thank them for providing the valuable source data in the field of Multi-view Stereo Reconstruction from Open Aerial imagery.
+
 
