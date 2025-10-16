@@ -8,7 +8,7 @@ To obtain the complete dataset, please first download the [LuoJia-MVS dataset](h
 
 
 
-Then You can download our text descriptions [Text-MVS](https://pan.baidu.com/) to the datasets folder and extract them.
+Then You can download our text descriptions [Text-MVS](https://pan.baidu.com/s/1e7ToxGxXbjvJ9ad90AsxJw?pwd=vs4d) (Download code: vs4d) to the datasets folder and extract them.
 
 
 
@@ -96,4 +96,5 @@ If you find this work useful in your research, please consider citing the follow
 #### Reference
 
 This dataset is based on the implementations of LuoJia-MVS and WHU dataset. We thank them for providing the valuable source data in the field of Multi-view Stereo Reconstruction from Open Aerial imagery.
+
 
