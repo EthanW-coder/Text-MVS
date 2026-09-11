@@ -85,13 +85,6 @@ Our prompt used for inference：
 5. Describe this aerial image in one sentence, focusing on depth when describing the scene, clearly indicating which geographical features appear closer to the camera and which appear farther away, as well as the spatial arrangement of the main subjects.
 ```
 
-#### Citation
-
-If you find this work useful in your research, please consider citing the following preprint:
-
-```
-
-```
 
 #### Reference
 
